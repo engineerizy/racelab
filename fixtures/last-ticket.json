@@ -1,0 +1,6 @@
+[
+  "A.read_stock",
+  "B.read_stock",
+  "A.reserve",
+  "B.reserve"
+]
